@@ -11,14 +11,21 @@ Kitti evaluation code:
 Save the resnet file within the samples documents within the mask rcnn repo:
 hyperparameter_random.py to run random search hyperparameter optimization.
   In the file you need to pass a training and validation set with form:
-    trainingsplit__
-      -000000_0.png__
-      -000000_1.png__
-      -orientation_label.txt__
-     valsplit__
-      -000000_0.png__
-      -000000_1.png__
-      -orientation_label.txt__
+    trainingsplit
+    
+      -000000_0.png
+      
+      -000000_1.png
+      
+      -orientation_label.txt
+      
+     valsplit
+     
+      -000000_0.png
+      
+      -000000_1.png
+      
+      -orientation_label.txt
       
 
 
