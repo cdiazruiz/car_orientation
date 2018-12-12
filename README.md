@@ -29,4 +29,4 @@ hyperparameter_random.py to run random search hyperparameter optimization.
       -orientation_label.txt
       
 
-
+running inference can be performed on run_test.py
