@@ -1,0 +1,7 @@
+model_name densenet
+lr 0.001285495412470306
+batch_size 16
+opt sgd
+reg 0.0
+epochs 75
+training time(m) 336.6734496196111

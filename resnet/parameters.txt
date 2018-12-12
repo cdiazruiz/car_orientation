@@ -1,0 +1,6 @@
+model_name resnet
+lr 0.0002898507754816427
+batch_size 109
+opt adam
+reg 0.0
+epochs 75training time(m) 102.33255980412166
